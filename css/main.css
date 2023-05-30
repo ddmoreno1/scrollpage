@@ -1,0 +1,37 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+.color1{
+  color: #1C2833;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+.fondo{
+  background: url(../img/fondo.jpg);
+}
+
+footer {
+  background: url(../img/fondo.jpg);
+}
+
+.navbar-light{
+  background-color:#52BE80 !important;
+}
+
+.card-body{
+  background-color:#52BE80 !important;
+}
